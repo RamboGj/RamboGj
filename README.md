@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Developer at [Near BuildDAO]("https://github.com/NEARBuilders/gateway")
+Developer at [Near BuildDAO](https://github.com/NEARBuilders/gateway)
 
 ## Tech Stacks
 - NextJS v13,14+ (Server and Client components with app router)
