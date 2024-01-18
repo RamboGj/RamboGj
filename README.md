@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
 - Developer at [Near BuildDAO]("https://github.com/NEARBuilders/gateway")
 
 ## Tech Stacks
