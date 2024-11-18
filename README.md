@@ -9,6 +9,7 @@
 - AWS: SAM-CLI, S3, DynamoDB, Lambda, Cloud Watch, Cognito
 - BOS
 - Near Smart Contract Development and integration
+- Solidity, Foundry, zkSync, Chainlink
 
 
 
