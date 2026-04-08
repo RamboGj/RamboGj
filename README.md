@@ -10,9 +10,10 @@
 - React Native (Expo)
 - Flutter
 - Fastify/Express
+- PostgresSQL, SQLite
 - AWS: SAM-CLI, S3, DynamoDB, Lambda, Cloud Watch, Cognito
 - GCP: Scheduler, Cloud Run, Pub/Sub, Secret Manager, Cloud SQL
-- Terraform
+- Terraform, Docker
 
 
 
