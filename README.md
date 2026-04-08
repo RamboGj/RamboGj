@@ -1,15 +1,19 @@
 ### Hi there 👋
 
+## Languages
+- Typescript
+- Rust
+- Dart
+
 ## Tech Stacks
-- NextJS v13,14+ (Server and Client components with app router)
-- TailwindCSS, Styled Components, Stitches and other styling libraries and frameworks
-- Zustand
+- NextJS, React
 - React Native (Expo)
+- Flutter
 - Fastify/Express
 - AWS: SAM-CLI, S3, DynamoDB, Lambda, Cloud Watch, Cognito
-- BOS
-- Near Smart Contract Development and integration
-- Solidity, Foundry, zkSync, Chainlink
+- GCP: Scheduler, Cloud Run, Pub/Sub, Secret Manager, Cloud SQL
+- Terraform
+
 
 
 
