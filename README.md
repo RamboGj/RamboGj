@@ -3,12 +3,11 @@
 ## Languages
 - Typescript
 - Rust
-- Dart
 
 ## Tech Stacks
 - NextJS, React
 - React Native (Expo)
-- Flutter
+- Electron
 - Fastify/Express
 - PostgreSQL, SQLite
 - AWS: SAM-CLI, S3, DynamoDB, Lambda, Cloud Watch, Cognito
