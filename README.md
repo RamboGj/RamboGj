@@ -3,6 +3,7 @@
 ## Languages
 - Typescript
 - Rust
+- GO
 
 ## Tech Stacks
 - NextJS, React
